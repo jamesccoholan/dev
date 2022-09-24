@@ -9,7 +9,9 @@ function App() {
   return (
     <div>
       <header className="App-header">
-        <p>TESSSST</p>
+        <div>
+          <span><p>TES<sub>T</sub></p></span>
+        </div>
         <h3>
           <ui>
             <li>Hello</li>
