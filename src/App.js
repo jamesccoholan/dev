@@ -4,11 +4,14 @@ import First from "./Components/First.js";
 import Second from "./Components/Second.js";
 import Third from "./Components/Third.js";
 import Fourth from "./Components/Fourth.js";
+import Home from "./pages/home";
 
 function App() {
   return (
     <div>
+
       <header className="App-header">
+        <Home />
         <div>
           <span><p>TES<sub>T</sub></p></span>
         </div>
