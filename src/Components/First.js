@@ -5,6 +5,10 @@ function First() {
     <div className="First">
       <p className="Text">Lets Get Creative</p>
       <p className="Text2">Lets Get Creative</p>
+      <p className="Text3">Lets Get Creative</p>
+      <p className="Text">Lets Get Creative</p>
+      <p className="Text2">Lets Get Creative</p>
+      <p className="Text3">Lets Get Creative</p>
     </div>
   );
 }

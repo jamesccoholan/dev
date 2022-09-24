@@ -17,3 +17,8 @@
   font-size: calc(30px + 2vmin);
   color: rgb(255, 0, 0);
 }
+
+.Text3 {
+  font-size: calc(30px + 2vmin);
+  color: rgb(255, 0, 242);
+}
