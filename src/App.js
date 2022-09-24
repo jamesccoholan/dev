@@ -1,13 +1,21 @@
-import logo from "./logo.svg";
+// import logo from "./logo.svg";
 import "./App.css";
+import First from "./Components/First.js";
+import Second from "./Components/Second.js";
+import Third from "./Components/Third.js";
+import Fourth from "./Components/Fourth.js";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
+    <div>
+      {/* <header className="App-header">
         <p>This is A blnk Webpage, I can make anything I want.</p>
         Learn React
-      </header>
+      </header> */}
+      <First />
+      <Second />
+      <Third />
+      <Fourth />
     </div>
   );
 }
